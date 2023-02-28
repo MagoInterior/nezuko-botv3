@@ -5,6 +5,10 @@
 <img src= "https://telegra.ph/file/2a30b2d0a9c6a1691d805.jpg" alt="NEZUKO-BOT" width="720">
 </p>
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/nezuko-botv3)](https://repl.it/github/MagoInterior/nezuko-botv3) 
+
 <p align="center">
 <a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blue?&style=for-the-badge"></a>
 </p>
